@@ -51,4 +51,4 @@ Copyright (C) 2026 zhuabaobao123
 本程序以 GPL-3.0-or-later 发布：可再分发、可修改，但须保留同一许可，且不提供任何担保。
 完整许可见 `LICENSE.txt` / `COPYING.txt`，CommonLibSSE-NG 的附加例外见 `EXCEPTIONS.md`。
 
-源码：https://github.com/zhuabaobao123/Stealth-Fixes-CN （压缩包内 `SOURCE/` 也带一份完整源码）。
+源码：https://github.com/zhuabaobao123/Stealth-Fixes-CN

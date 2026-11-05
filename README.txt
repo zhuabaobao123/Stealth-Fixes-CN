@@ -24,8 +24,7 @@ exception.
 
 Source code
 -----------
-All source code is included in the SOURCE folder of this archive and is also
-published at:
+The complete source code is published at:
 https://github.com/zhuabaobao123/Stealth-Fixes-CN
 
 What this mod does
@@ -51,8 +50,8 @@ Install with Mod Organizer 2 (or extract into Data/) and enable this mod after
 
 Build
 -----
-See README.md / SOURCE/README.md. Requires CMake 3.21+, Ninja, MSVC and vcpkg,
-plus a CommonLibSSE-NG source tree.
+See README.md. Requires CMake 3.21+, Ninja, MSVC and vcpkg, plus a
+CommonLibSSE-NG source tree.
 
 Credits
 -------
