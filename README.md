@@ -44,6 +44,11 @@ cmake --build build --parallel
 
 产物 `build/StealthFixesCN.dll`。发布时与 `data/StealthFixesCN.json` 一起放进 `Data/SKSE/Plugins/`（压缩包要镜像 `Data/` 结构）。
 
-## 许可
+## 许可与源码
 
-GPL-3.0-or-later，见 COPYING.txt 与 EXCEPTIONS.md。
+Copyright (C) 2026 zhuabaobao123
+
+本程序以 GPL-3.0-or-later 发布：可再分发、可修改，但须保留同一许可，且不提供任何担保。
+完整许可见 `LICENSE.txt` / `COPYING.txt`，CommonLibSSE-NG 的附加例外见 `EXCEPTIONS.md`。
+
+源码：https://github.com/zhuabaobao123/Stealth-Fixes-CN （压缩包内 `SOURCE/` 也带一份完整源码）。
