@@ -14,8 +14,8 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY
 WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-The full license text is included in LICENSE.txt and COPYING.txt in this
-archive. The GPL-3.0 text is also available at:
+The full license text is included in LICENSE.txt in this archive. The GPL-3.0
+text is also available at:
 https://www.gnu.org/licenses/gpl-3.0.txt
 
 This plugin links CommonLibSSE-NG (GPL-3.0-or-later) and is therefore released
@@ -50,8 +50,8 @@ Install with Mod Organizer 2 (or extract into Data/) and enable this mod after
 
 Build
 -----
-See README.md. Requires CMake 3.21+, Ninja, MSVC and vcpkg, plus a
-CommonLibSSE-NG source tree.
+See the project page: https://github.com/zhuabaobao123/Stealth-Fixes-CN
+Requires CMake 3.21+, Ninja, MSVC and vcpkg, plus a CommonLibSSE-NG source tree.
 
 Credits
 -------
